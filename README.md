@@ -98,11 +98,11 @@ WeChat_bot_kimi/
 *(注：文件夹内还完好保存了 `加油36603909294664394.png`、`笑9599519207709566.png` 等群聊对线历史见证。)*
 
 ### ☕ 摸鱼日历残卷 (`/moyu_calendar/`)
-机器人每天早晨定时抓取并推送到微信群里的"摸鱼人日历"，记录了 2023 年盛夏那些有趣的早晨：
+机器人每天早晨定时抓取并推送到微信群里的"摸鱼人日历"，记录了 2024 年盛夏那些有趣的早晨：
 
 | 08月05日 📅 | 08月06日 📅 | 08月07日 📅 |
 | :---: | :---: | :---: |
-| <img src="./moyu_calendar/[摸鱼人日历]08月05日.jpg" width="220" /> | <img src="./moyu_calendar/[摸鱼人日历]08月06日.jpg" width="220" /> | <img src="./moyu_calendar/[摸鱼人日历]08月07日.jpg" width="220" /> |
+| <img src="./moyu_calendar/%5B摸鱼人日历%5D08月05日.jpg" width="220" /> | <img src="./moyu_calendar/%5B摸鱼人日历%5D08月06日.jpg" width="220" /> | <img src="./moyu_calendar/%5B摸鱼人日历%5D08月07日.jpg" width="220" /> |
 
 ---
 
